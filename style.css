@@ -1,0 +1,25 @@
+.copyright-footer
+{
+    background-color: red;
+}
+li
+{
+    float: center;
+}
+p
+{
+    font-size: 20;
+    font-weight: bold;
+}
+body
+{
+    background-color: aqua;
+}
+.red
+{
+    color:red;
+}
+.green
+{
+    color:green;
+}
